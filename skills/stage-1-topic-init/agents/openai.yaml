@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stage 1 Topic Init"
+  short_description: "Generate Stage 1 research goal and hardware profile."
+  default_prompt: "Use $stage-1-topic-init to create a ResearchClaw Stage 1 goal and hardware profile for my topic."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stage 7 Synthesis"
+  short_description: "Generate Stage 7 synthesis from knowledge cards."
+  default_prompt: "Use $stage-7-synthesis to create ResearchClaw Stage 7 synthesis.md from cards."

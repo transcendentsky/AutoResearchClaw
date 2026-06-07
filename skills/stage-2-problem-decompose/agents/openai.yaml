@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stage 2 Problem Decompose"
+  short_description: "Generate Stage 2 problem decomposition artifacts."
+  default_prompt: "Use $stage-2-problem-decompose to create a ResearchClaw Stage 2 problem tree from my goal.md."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stage 8 Hypothesis Gen"
+  short_description: "Generate Stage 8 research hypotheses."
+  default_prompt: "Use $stage-8-hypothesis-gen to create ResearchClaw Stage 8 hypotheses.md from synthesis.md."

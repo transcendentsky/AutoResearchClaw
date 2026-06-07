@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stage 3 Search Strategy"
+  short_description: "Generate Stage 3 search plan and query artifacts."
+  default_prompt: "Use $stage-3-search-strategy to create ResearchClaw Stage 3 search_plan.yaml, sources.json, and queries.json."

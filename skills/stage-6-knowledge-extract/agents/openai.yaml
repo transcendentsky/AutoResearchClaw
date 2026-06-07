@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stage 6 Knowledge Extract"
+  short_description: "Extract knowledge cards for Stage 6."
+  default_prompt: "Use $stage-6-knowledge-extract to create ResearchClaw Stage 6 knowledge cards from shortlist.jsonl."

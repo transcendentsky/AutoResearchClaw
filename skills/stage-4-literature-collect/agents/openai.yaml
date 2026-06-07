@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stage 4 Literature Collect"
+  short_description: "Collect literature candidates for Stage 4."
+  default_prompt: "Use $stage-4-literature-collect to collect ResearchClaw Stage 4 literature candidates from queries.json."

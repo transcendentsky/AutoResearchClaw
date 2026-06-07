@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stage 5 Literature Screen"
+  short_description: "Screen literature candidates for Stage 5."
+  default_prompt: "Use $stage-5-literature-screen to create a ResearchClaw Stage 5 shortlist from candidates.jsonl."

@@ -1,0 +1,8 @@
+{
+  "has_gpu": true,
+  "gpu_type": "cuda",
+  "gpu_name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "vram_mb": 8188,
+  "tier": "limited",
+  "warning": "Local GPU (NVIDIA GeForce RTX 4060 Laptop GPU, 8188 MB VRAM) has limited memory. Complex deep learning experiments may be slow or run out of memory. Consider using a remote GPU server for best results."
+}
